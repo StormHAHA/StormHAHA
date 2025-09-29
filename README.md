@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет, я StormHAHA 👋
 
-<!--
-**StormHAHA/StormHAHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend developer
 
-Here are some ideas to get you started:
+Создаю удобные, быстрые интерфейсы с уклоном в usability и SEO
+Фокус: **JavaScript, TypeScript, React.js, Next.js, Sass, Tailwind**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Навыки
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-✓-blue?logo=typescript)
+![React](https://img.shields.io/badge/React-✓-blue?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-✓-black?logo=next.js)
+![Sass](https://img.shields.io/badge/Sass-✓-pink?logo=sass)
+![Tailwind](https://img.shields.io/badge/Tailwind-✓-cyan?logo=tailwindcss)
+
+---
+
+
+## 📈 Статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=StormHAHA&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StormHAHA&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StormHAHA&theme=dark)
+
+---
+
+## 📫 Контакты
+
+[![Email](https://img.shields.io/badge/Email-stormelit905@gmail.com-red?logo=gmail)](mailto:stormelit905@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@dgshitdeveloper-blue?logo=telegram)](https://t.me/dgshitdeveloper)
+
+---
+
+![visitors](https://profile-counter.glitch.me/StormHAHA/count.svg)
