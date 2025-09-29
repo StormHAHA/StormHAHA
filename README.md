@@ -3,6 +3,7 @@
 ## Frontend developer
 
 Создаю удобные, быстрые интерфейсы с уклоном в usability и SEO
+---
 Фокус: **JavaScript, TypeScript, React.js, Next.js, Sass, Tailwind**
 
 ---
