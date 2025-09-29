@@ -34,4 +34,4 @@
 
 ---
 
-![visitors](https://profile-counter.glitch.me/StormHAHA/count.svg)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=StormHAHA)
